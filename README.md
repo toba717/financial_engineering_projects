@@ -6,4 +6,4 @@ I love applying my technical skills in the world of finance to generate a dynami
 
 This repository consists of some project that I have worked on that relates to the finance industry. 
 - stock market prediction
-  - generated machine learning models to predict if we should buy the S&P 500
+  - Generated machine learning models to predict if we should buy the S&P 500
