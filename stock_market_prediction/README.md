@@ -8,3 +8,4 @@ Introduced new predictors through looking at trends and how the stock price comp
 Accessed if my false positive or false negative rate is high and reconstructed my models based on this fact.
 Constructed model utilizing Random Forest.
 Generated prediction and backtesting function to access the accuracy of the model.
+
