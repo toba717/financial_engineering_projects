@@ -7,7 +7,8 @@ I love applying my technical skills in the world of finance to generate a dynami
 This repository consists of some project that I have worked on that relates to the finance industry.
 
 List of Projects:
-- stock market prediction
-  - Generated machine learning models to predict if we should buy the S&P 500
 - discounted cash flow
   - Implemented the DCF method and assessed the fair value of multiple companies
+- stock market prediction
+  - Generated machine learning models to predict if we should buy the S&P 500
+
