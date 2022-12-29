@@ -9,3 +9,5 @@ This repository consists of some project that I have worked on that relates to t
 List of Projects:
 - stock market prediction
   - Generated machine learning models to predict if we should buy the S&P 500
+- discounted cash flow
+  - Implemented the DCF method and assessed the fair value of multiple companies
