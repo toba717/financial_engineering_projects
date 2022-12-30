@@ -1,4 +1,4 @@
-# discounted_cash_flow
+# black_scholes_method
 The Black-Scholes formula is a mathematical model used to price European-style options. It is a widely used tool in finance and is named after Fischer Black and Myron Scholes, who developed it in 1973. European-style options can only be exercised at the expiration date of the option, while American-style options can be exercised at any time before the expiration date.
 
 
