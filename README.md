@@ -11,6 +11,8 @@ List of Projects:
   - Generated the overarching function for the black scholes formula and have tested with actual options
 - discounted cash flow
   - Implemented the DCF method and assessed the fair value of multiple companies
+- reading stock data
+  - Navigated through Pandas Datareader and Plotly to derive insights on the market
 - stock market prediction
   - Generated machine learning models to predict if we should buy the S&P 500
 
