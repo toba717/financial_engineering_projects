@@ -6,6 +6,8 @@ I love applying my technical skills in the world of finance to generate a dynami
 
 This repository consists of some project that I have worked on that relates to the finance industry.
 
+
+
 List of Projects:
 - black scholes method
   - Generated the overarching function for the black scholes formula and have tested with actual options
