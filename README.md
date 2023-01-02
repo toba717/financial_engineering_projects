@@ -14,7 +14,7 @@ List of Projects:
 - discounted cash flow
   - Implemented the DCF method and assessed the fair value of multiple companies
 - plotting candlestick chart
-  - Generated an interactive candlestick plot by simultaneously plotting the stock price and the corresponding volume
+  - Constructed a candlestick chart and the corresponding volume
 - reading stock data
   - Navigated through Pandas Datareader and Plotly to derive insights on the market
 - stock market prediction
