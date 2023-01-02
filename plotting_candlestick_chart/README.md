@@ -1,4 +1,4 @@
-# plotting_the_stock_market_OHLC
+# plotting_candlestick_chart
 
 A candlestick chart is a type of financial chart that displays the high, low, open, and close prices of a security over a given time period. It is similar to an OHLC chart, but it also includes a body that is shaded in or left blank to represent the difference between the open and close prices. If the open price is higher than the close price, the body of the candlestick is shaded in, typically in red or black, to indicate that the stock decreased in value over the time period. If the close price is higher than the open price, the body of the candlestick is left blank, typically in white, to indicate that the stock increased in value over the time period. Candlestick charts are often used by technical analysts to identify patterns and trends that may be indicative of future price movements. They are also used to identify support and resistance levels, and to measure the relative strength of buyers and sellers in the market.
 
