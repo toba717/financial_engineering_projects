@@ -13,6 +13,8 @@ List of Projects:
   - Generated the overarching function for the black scholes formula and have tested with actual options
 - discounted cash flow
   - Implemented the DCF method and assessed the fair value of multiple companies
+- log returns and normality assumptions
+  - Determined differences in simple and log return and checked normality assumptions through QQ plots and hypothesis tests.
 - plotting candlestick chart
   - Constructed a candlestick chart and the corresponding volume
 - reading stock data
