@@ -19,6 +19,8 @@ List of Projects:
   - Constructed a candlestick chart and the corresponding volume
 - reading stock data
   - Navigated through Pandas Datareader and Plotly to derive insights on the market
+- risk-adjusted returns and annualized volatility
+  - Calculated the annualized volatility and  plotted the Sharpe ratio, Sortino ratio, Modigliani ratio, and the Calmar ratio utilizing max drawdown
 - stock market prediction
   - Generated machine learning models to predict if we should buy the S&P 500
 
