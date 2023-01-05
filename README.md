@@ -14,7 +14,9 @@ List of Projects:
 - discounted cash flow
   - Implemented the DCF method and assessed the fair value of multiple companies
 - log returns and normality assumptions
-  - Determined differences in simple and log return and checked normality assumptions through QQ plots and hypothesis tests.
+  - Determined differences in simple and log return and checked normality assumptions through QQ plots and hypothesis tests
+- monte carlo simulation 
+  - Utilized the Monte Carlo method to simulate the performance of a stock portfolio
 - plotting candlestick chart
   - Constructed a candlestick chart and the corresponding volume
 - reading stock data
