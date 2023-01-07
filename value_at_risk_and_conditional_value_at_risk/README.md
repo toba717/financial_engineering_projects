@@ -1,4 +1,4 @@
-# VaR and CVaR
+# value at risk and conditional value at risk
 
 Value at Risk (VaR) is a measure of the risk of an investment. 
 Furthermore, Conditional Value at Risk (CVaR), also known as Expected Shortfall (ES), is a measure of the expected loss of an investment beyond a certain level of loss, such as the VaR. 
