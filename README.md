@@ -27,3 +27,4 @@ List of Projects:
   - Generated machine learning models to predict if we should buy the S&P 500
 - value at risk and conditional value at risk
   - Examined the VaR and CVaR in an investment portfolio looked into by the Monte Carlo simulation
+
