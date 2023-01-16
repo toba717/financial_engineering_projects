@@ -29,4 +29,3 @@ List of Projects:
   - Examined the VaR and CVaR in an investment portfolio looked into by the Monte Carlo simulation
 
 
-
