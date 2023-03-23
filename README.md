@@ -15,6 +15,8 @@ List of Projects:
   - Implemented the DCF method and assessed the fair value of multiple companies
 - log returns and normality assumptions
   - Determined differences in simple and log return and checked normality assumptions through QQ plots and hypothesis tests
+- markov chain based stochastic processes for portfolio optimization
+  - Predicted probabilities of states through considering the following states:"bullish" "bearish" and "neutral" 
 - monte carlo simulation 
   - Utilized the Monte Carlo method to simulate the performance of a stock portfolio
 - plotting candlestick chart
