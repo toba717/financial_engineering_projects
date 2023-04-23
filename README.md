@@ -7,7 +7,6 @@ I love applying my technical skills in the world of finance to generate a dynami
 This repository consists of the project that I have worked on that expands my horizon in the finance industry.
 
 
-
 List of Projects:
 - backtesting library
   - Incorporated backtesting library and optimized parameters
