@@ -9,6 +9,8 @@ This repository consists of the project that I have worked on that expands my ho
 
 
 List of Projects:
+- backtesting library
+  - Incorporated backtesting library and optimized parameters
 - black scholes method
   - Generated the overarching function for the black scholes formula and have tested with actual options
 - discounted cash flow
