@@ -31,3 +31,4 @@ List of Projects:
 - value at risk and conditional value at risk
   - Examined the VaR and CVaR in an investment portfolio looked into by the Monte Carlo simulation
 
+
